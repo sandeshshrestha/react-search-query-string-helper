@@ -1,0 +1,26 @@
+{
+  "name": "react-search-query-string-helper",
+  "version": "0.0.2",
+  "description": "React Search Query String Helper",
+  "author": "sandeshshrestha",
+  "license": "MIT",
+  "repository": "sandeshshrestha/react-search-query-string-helper",
+  "main": "./src/index.js",
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "scripts": {},
+  "peerDependencies": {
+    "react-router-dom": "^4.3.0"
+  },
+  "devDependencies": {},
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.isobject": "^3.0.2",
+    "query-string": "^6.5.0"
+  }
+}
